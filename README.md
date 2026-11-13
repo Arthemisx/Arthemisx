@@ -29,15 +29,6 @@ Estudante de ciência da computação no quarto semestre
 | Mario party: Projeto pessoal de desenvolvimento de minigame em C#
 | Metroday: Projeto em parceria com o Metrô de São Paulo feito em Java
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Arthemisx&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthemisx&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🌐 Onde me encontrar?
 
