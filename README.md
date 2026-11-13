@@ -3,7 +3,9 @@
 
 <!-- PAC-MAN NO TOPO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=160&section=header&text=Welcome!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arthemisx/Arthemisx/output/pacman-contribution-graph.svg" width="100%">
+</p>
 ### 💻 Desenvolvedor fullstack
 
 Estudante de ciência da computação no quarto semestre
